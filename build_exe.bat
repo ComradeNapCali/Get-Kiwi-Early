@@ -1,0 +1,2 @@
+@echo off
+pyinstaller -F --windowed -n GetKiwiEarly -i icon.ico --add-data "error.wav;." --add-data "select.wav;." --add-data "finished.wav;." --add-data "TiVo.png;." --add-data "ricky.png;." installer_gui_prank.py

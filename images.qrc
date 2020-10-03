@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>TiVo.png</file>
+    <file>ricky.png</file>
+  </qresource>
+</RCC>

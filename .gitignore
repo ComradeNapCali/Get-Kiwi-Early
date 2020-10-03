@@ -1,0 +1,15 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# IDEs
+.idea/
+
+# macOS
+.DS_Store
+
+# Built files
+*.spec
+built/
+phases/
